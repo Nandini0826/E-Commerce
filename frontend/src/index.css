@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Arthemis';
+  src: url('/font/Arthemis.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'ZebraLounge';
+  src: url('/font/Zebra Lounge.ttf') format('truetype');
+}
+
+/* Usage example */
+.nav-logo {
+  font-family: 'Arthemis', cursive; /* or use 'FeelingLovely' */
+}
+.pr-ad {
+  font-family: 'ZebraLounge', cursive;
+  font-style: italic;
+}
