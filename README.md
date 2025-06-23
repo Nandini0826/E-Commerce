@@ -1,5 +1,5 @@
 # E-Commerce
-(https://deepwiki.com/Nandini0826/E-Commerce)
+(https://Nandini0826/E-Commerce)
 
 This repository contains the source code for a full-stack E-Commerce application. The application features a Node.js and Express.js backend with MongoDB, and a React (with Vite and TypeScript) frontend styled with Tailwind CSS.
 
