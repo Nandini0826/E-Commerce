@@ -9,6 +9,7 @@ This repository contains the source code for a full-stack E-Commerce application
 *   **Admin Authentication:** Separate login for administrators to manage the platform.
 *   **Product Management:**
     *   Admins can add new products with details, price, discount, and images.
+    *   Admins can also update the produucts
     *   Products are displayed on the shop page for users.
 *   **Shopping Cart:**
     *   Users can add products to their cart.
